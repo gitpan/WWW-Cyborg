@@ -1,6 +1,6 @@
 package WWW::Cyborg;
 
-$VERSION = '0.04';
+$VERSION = '0.06';
 @EXPORT_OK = qw(cyborg_name);
 
 use strict;
