@@ -1,0 +1,10 @@
+--- #YAML:1.0
+module_name: WWW-Cyborg
+dist_version_from: lib/WWW/Cyborg.pm
+installdirs: site
+requires:
+    Exporter:       0
+    LWP::UserAgent: 0
+distribution_type: module
+license: perl
+dist_abstract: Resolv Cyborg names via www.cyborgname.com
