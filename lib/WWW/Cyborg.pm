@@ -1,6 +1,6 @@
 package WWW::Cyborg;
 
-$VERSION = '0.02';
+$VERSION = '0.04';
 @EXPORT_OK = qw(cyborg_name);
 
 use strict;
@@ -65,7 +65,7 @@ WWW::Cyborg - Resolv Cyborg names via www.cyborgname.com
  
 =head1 DESCRIPTION
 
-www.cyborgname.com transforms names to futuristic acronyms.
+The www.cyborgname.com engine transforms human names to futuristic acronyms.
 
 =head1 FUNCTIONS
 
